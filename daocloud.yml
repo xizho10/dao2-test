@@ -6,7 +6,7 @@ env:
 script:
     - echo $MYENV
     - echo "This is an script segment"
-    - echo "Run test cases in this segment"
+    - echo "Run test  cases in this segment"
     - echo ""
     - echo "Below shows how to use services, mongodb/mysql/redis are the hostnames of services"
     - ping -c 2 redis
